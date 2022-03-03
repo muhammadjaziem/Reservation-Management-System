@@ -337,12 +337,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
-                <div class="copyright text-center">
-                    <p>
-                        &copy; Copyright, {{ date('Y') }} <a href="#">Mamma's Kitchen.</a> <strong> Developed &amp; <i class="far fa-heart"></i> by </strong>
-                        <a href="https://www.youtube.com/channel/UCwbVAlvrsD2Tpx93bleNbOA" target="_blank">Programming kit</a>
-                    </p>
-                </div>
+                
             </div>
         </div>
     </div>
